@@ -1,60 +1,61 @@
-CountryID,CountryName
-1,Austria
-2,Belgium
-3,Bulgaria
-4,Croatia
-5,Republic of Cyprus
-6,Czech Republic
-7,Denmark
-8,Estonia
-9,Finland
-10,France
-11,Germany
-12,Greece
-13,Hungary
-14,Ireland
-15,Italy
-16,Latvia
-17,Lithuania
-18,Luxembourg
-19,Malta
-20,Netherlands
-21,Poland
-22,Portugal
-23,Romania
-24,Slovakia
-25,Slovenia
-26,Spain
-27,Sweden
-28,UK
-29,USA
-30,Gibraltar
-31,Iceland
-32,Armenia
-33,Georgia
-34,Switzerland
-35,Israel
-36,HongKong
-37,Lichtenstein
-38,Guatemala
-39,Dominican Republic
-40,Argentina
-41,Faroe Islands
-42,Serbia
-43,Albania
-44,Guatemala
-45,Tunesia
-46,South Africa
-47,India
-48,South-Korea
-49,Norway
-50,Kosovo
-51,Macedonia
-52,Lebanon
-53,Bosnia
-54,Pakistan
-55,Russia
-56,Ukraine
-57,Monaco
+CountryID,CountryName,EU
+0,Unknown country,Unknown region
+1,Austria,EU
+2,Belgium,EU
+3,Bulgaria,EU
+4,Croatia,EU
+5,Cyprus,EU
+6,Czech Republic,EU
+7,Denmark,EU
+8,Estonia,EU
+9,Finland,EU
+10,France,EU
+11,Germany,EU
+12,Greece,EU
+13,Hungary,EU
+14,Ireland,EU
+15,Italy,EU
+16,Latvia,EU
+17,Lithuania,EU
+18,Luxembourg,EU
+19,Malta,EU
+20,Netherlands,EU
+21,Poland,EU
+22,Portugal,EU
+23,Romania,EU
+24,Slovakia,EU
+25,Slovenia,EU
+26,Spain,EU
+27,Sweden,EU
+28,UK,EU
+29,USA,Non-EU
+30,Gibraltar,EU
+31,Iceland,Non-EU
+32,Armenia,Non-EU
+33,Georgia,Non-EU
+34,Switzerland,Non-EU
+35,Israel,Non-EU
+36,HongKong,Non-EU
+37,Lichtenstein,EU
+38,Guatemala,Non-EU
+39,Dominican Republic,Non-EU
+40,Argentina,Non-EU
+41,Faroe Islands,Non-EU
+42,Serbia,Non-EU
+43,Albania,Non-EU
+44,Guatemala,Non-EU
+45,Tunesia,Non-EU
+46,South Africa,Non-EU
+47,India,Non-EU
+48,South-Korea,Non-EU
+49,Norway,Non-EU
+50,Kosovo,Non-EU
+51,Macedonia,Non-EU
+52,Lebanon,Non-EU
+53,Bosnia,Non-EU
+54,Pakistan,Non-EU
+55,Russia,Non-EU
+56,Ukraine,Non-EU
+57,Monaco,Non-EU
 
 
