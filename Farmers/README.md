@@ -6,4 +6,5 @@ Data provided by [Ties Joosten](https://www.ftm.nl/auteur/ties-joosten)
 # Some ideas for further exploration
 * Add a geographic dimension , where in the country are the poor/rich farmers
 * Link to economic input-output data, as visualised by [the Observatory of Economic Complexity](https://oec.world/en/) 
-* Show subsidy amounts over time, stretching back to last 20 or 30 years, to show effect of various Dutch governments.
+* Show subsidy amounts over time, stretching back to last 20 or 30 years, to show effect of various Dutch governments and their position in the political spectrum.
+
